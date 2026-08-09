@@ -1,4 +1,3 @@
-# Predicting-Student-Academic-Behaviour-Patterns-and-Early-Academic-Risk
 # Explainable AI for Student Academic Success Prediction and Early Risk Detection
 
 ## Abstract
