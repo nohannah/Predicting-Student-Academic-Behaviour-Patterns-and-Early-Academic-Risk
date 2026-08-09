@@ -55,15 +55,15 @@ Examining the machine learning and explainable AI techniques used to predict aca
 
 Common predictive models include:
 
-- Random Forest
-- XGBoost
-- Decision Trees
-- Neural Networks
+-Logistic Regression
+-Random Forest
+-XGBoost
+-Support Vector Machine (SVM)
+-Gradient Boosting
 
 Common XAI techniques include:
 
 - SHAP
-- LIME
 
 ### 3. XAI-Based Early Warning Systems
 
